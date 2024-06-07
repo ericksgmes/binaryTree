@@ -77,8 +77,8 @@ O programa suporta as seguintes operações:
 ## Estrutura do Projeto
 
 - `main.c`: Contém a função principal e o loop de interação com o usuário.
-- `binary_tree.h`: Contém as declarações das funções e do tipo de dado `t_binary_tree`.
-- `binary_tree.c`: Contém as implementações das funções do TAD Árvore Binária.
+- `t_binarytree.h`: Contém as declarações das funções e do tipo de dado `t_binary_tree`.
+- `t_binarytree.c`: Contém as implementações das funções do TAD Árvore Binária.
 
 ## Compilação e Execução
 
