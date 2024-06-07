@@ -1,0 +1,3 @@
+C:/Users/erick/OneDrive/Área de Trabalho/arvoreBinaria/cmake-build-debug/CMakeFiles/arvoreBinaria.dir
+C:/Users/erick/OneDrive/Área de Trabalho/arvoreBinaria/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/erick/OneDrive/Área de Trabalho/arvoreBinaria/cmake-build-debug/CMakeFiles/rebuild_cache.dir
